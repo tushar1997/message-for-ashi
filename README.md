@@ -2,7 +2,7 @@
 
 A beautiful Valentine's message web application built with React and Vite.
 
-**GitHub:** [tushar1997/valentines-message](https://github.com/tushar1997/valentines-message)
+**GitHub:** [tushar1997/message-for-ashi](https://github.com/tushar1997/message-for-ashi)
 
 ## About
 
