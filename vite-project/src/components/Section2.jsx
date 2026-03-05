@@ -25,10 +25,12 @@ const Section2 = () => {
       >
         <h2 className="typewriter">A Moon Entering my life</h2>
         <p className="section2-text">
-          I still can’t believe we randomly crossed paths on Instagram on 16 January 2026. I mean… what are the odds? I sent that random ice breaker “Got your profile on Jeevansathi, wanted to check Is that you by any chance?” message with zero expectations… and then you actually replied. I’m not saying it was fate, but Instagram algorithm deserves a thank you card.
-          And now here we are… talking, laughing, sharing random thoughts like we’ve known each other longer than we actually have and how can we forget reminding 11:11 everytime to each other (which means that you're on the right track, keep it secret! :P) Not bad for two strangers who met on instagram randomly. 
-          Do you even remember our first call? Nahi naa, chalo, i tell you, it was 29 January 2026, 19:19.
-          So I was thinking… instead of just being “that guy from Instagram DMs,” how about I ask you something.
+          I still can’t believe we randomly crossed paths on Hinge on 01 February 2026. I mean… what are the odds? I sent the like randomly around 16 December 2025 with zero expectations… and then you actually matched. I’m not saying it was fate, but Hinge algorithm deserves a thank you card for actually bringing my profile to your feed.
+          And now here we are… talking, laughing, sharing random thoughts like we’ve known each other longer than we actually have and how can we forget you calling me Cringe whenever I share a random reel in my IG feed (which means that IG wants us to tease each other more! :P) Not bad for two strangers who met on Hinge randomly. 
+          And someone was too busy that they responded to my text after 2 days, i.e. 3rd February 2026! :( 
+          But woh kehte hain naa, "If it’s meant for you, it will find its way to you". 
+          Also, Do you even remember our first call? Nahi naa, chalo, i tell you, it was 26/2/26, 20:44.
+          So I was thinking… instead of just being “that yet another guy from Hinge,” how about I ask you something in a different way.
         </p>
         <motion.a
           href="#section1"
