@@ -1,6 +1,6 @@
 # Message for Ashi
 
-A beautiful Valentine's message web application built with React and Vite.
+A beautiful message web application built with React and Vite.
 
 **GitHub:** [tushar1997/message-for-ashi](https://github.com/tushar1997/message-for-ashi)
 
