@@ -1,4 +1,4 @@
-# Valentine's Message
+# Message for Ashi
 
 A beautiful Valentine's message web application built with React and Vite.
 
