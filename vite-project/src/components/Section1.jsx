@@ -64,7 +64,7 @@ const Section1 = () => {
       />
 
       <h1 className="section1-heading">
-        {'NOW, I FOUND YOU, KANIKA'.split('').map((char, i) => (
+        {'NOW, I FOUND YOU, ASHI'.split('').map((char, i) => (
           <span key={i} className="beam-letter">
             {char === ' ' ? '\u00A0' : char}
           </span>
