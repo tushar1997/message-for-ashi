@@ -64,7 +64,7 @@ const Section1 = () => {
       />
 
       <h1 className="section1-heading">
-        {"I'M  GLAD, I FOUND YOU, AASHI".split('').map((char, i) => (
+        {"NOW, I FOUND YOU, AASHI".split('').map((char, i) => (
           <span key={i} className="beam-letter">
             {char === ' ' ? '\u00A0' : char}
           </span>
@@ -81,7 +81,7 @@ const Section1 = () => {
       </nav>
       <a
         className="section-fab"
-        href="https://tushar1997.github.io/v-message/"
+        href="https://tushar1997.github.io/message-ashi/"
         aria-label="click here"
       >
         Ab yahan Click Karo
